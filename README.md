@@ -41,7 +41,7 @@ Built an interactive report in Power BI with the following KPIs:
 * **Monthly Sales Trend**
 
 #4. Added etl_script.py 
-* **A Python automation script using Pandas & SQLAlchemy to generate and load synthetic data into the cloud database
+* **A Python automation script using Pandas & SQLAlchemy to generate and load synthetic data into the cloud database**
 
 ##How to Run
 1. **Database:** Use the `db_setup_script.sql` file to recreate the database schema and insert dummy data into your local or cloud MySQL instance.
